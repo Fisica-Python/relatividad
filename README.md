@@ -13,10 +13,10 @@ Pero lo que verdaderamente hizo famoso a Einstein, es que se pueden encontrar un
 
 Algunos fenómenos que podemos encontrar son:
 
-La dilatación del tiempo
-La contracción de las longitudes
-Dilatación de la masa inercial
-Equivalencia masa-energía (E=mc^2)
++La dilatación del tiempo
++La contracción de las longitudes
++Dilatación de la masa inercial
++Equivalencia masa-energía (E=mc^2)
 
 En cada una de estas situaciones, aparece un elemento matemático que se repite y que Lorentz ya había encontrado previamente en sus trabajos sobre el movimiento de los electrones y que no pudo interpretar correctamente. Es el factor gamma de Lorentz.
 
